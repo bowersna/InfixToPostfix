@@ -1,0 +1,11 @@
+C:\Users\Nick\Desktop\Data Structures\InfixToPostfix\InfixToPostfix\bin\Debug\InfixToPostfix.exe.config
+C:\Users\Nick\Desktop\Data Structures\InfixToPostfix\InfixToPostfix\bin\Debug\InfixToPostfix.exe
+C:\Users\Nick\Desktop\Data Structures\InfixToPostfix\InfixToPostfix\bin\Debug\InfixToPostfix.pdb
+C:\Users\Nick\Desktop\Data Structures\InfixToPostfix\InfixToPostfix\obj\Debug\InfixToPostfix.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Desktop\Data Structures\InfixToPostfix\InfixToPostfix\obj\Debug\InfixToPostfix.AboutBox.resources
+C:\Users\Nick\Desktop\Data Structures\InfixToPostfix\InfixToPostfix\obj\Debug\InfixToPostfix.MainForm.resources
+C:\Users\Nick\Desktop\Data Structures\InfixToPostfix\InfixToPostfix\obj\Debug\InfixToPostfix.Properties.Resources.resources
+C:\Users\Nick\Desktop\Data Structures\InfixToPostfix\InfixToPostfix\obj\Debug\InfixToPostfix.SplashScreen.resources
+C:\Users\Nick\Desktop\Data Structures\InfixToPostfix\InfixToPostfix\obj\Debug\InfixToPostfix.csproj.GenerateResource.Cache
+C:\Users\Nick\Desktop\Data Structures\InfixToPostfix\InfixToPostfix\obj\Debug\InfixToPostfix.exe
+C:\Users\Nick\Desktop\Data Structures\InfixToPostfix\InfixToPostfix\obj\Debug\InfixToPostfix.pdb
